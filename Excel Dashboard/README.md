@@ -34,6 +34,8 @@ This Excel dashboard provides a comprehensive visual summary of Krishna Store’
 
 ## Overview of the Dashboard
 
+![001](https://github.com/user-attachments/assets/d2cca4b5-237e-466d-8e82-a2447a41676d)
+
 
 
 ## ✅ Conclusion
